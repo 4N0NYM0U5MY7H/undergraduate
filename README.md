@@ -41,6 +41,7 @@ This table contains a list of programming projects I have completed as an underg
         Repl.it • 
         Visual Studio Code
     </td>
+    <td>2023</td>
 </tr>
 <tr>
     <td>Software Engineering I<br />(CS 361)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
@@ -55,7 +56,7 @@ This table contains a list of programming projects I have completed as an underg
         GitHub •
         JSON • 
         Python • 
-        QLite • 
+        SQLite • 
         Visual Studio Code 
     </td>
     <td>2023</td> 
@@ -130,6 +131,23 @@ This table contains a list of programming projects I have completed as an underg
         git •
         Unity • 
         Visual Studio 
+    </td>
+    <td>2021</td>
+</tr>
+<tr>
+    <td>Unity C# Survival Guide<br />GameDevHQ<br /><a href="https://learn.unity.com/course/unity-c-survival-guide">Unity Learn</a></td>
+    <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/c_sharp_survival_guide">
+        Unity Quick Tips •
+        Beginner C# • 
+        Intermediate C# •
+        Advanced C#
+        </a>
+    <td>
+        C# • 
+        git •
+        Unity • 
+        Visual Studio
     </td>
     <td>2021</td>
 </tr>
@@ -280,14 +298,26 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Intro to Unix/Linux Systems & Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Unix Library
+        Bash Scripting •
+        Days Alive •
+        Daily Fortune •
+        Fortune Webpage •
+        Timesheet •
+        Diskhog • 
+        Speedo • 
+        GeoIP •
+        VNC Server • 
+        <a href="https://github.com/4N0NYM0U5MY7H/ULIB">Unix Library</a>
     </td>
     <td>
         Bash • 
         git •
         Linux • 
+        Raspberry Pi •
+        SQLite • 
         Vim • 
-        VMWare
+        VMWare • 
+        VNC Server
     </td>
     <td>2018</td>
 </tr>
@@ -310,7 +340,7 @@ This table contains a list of programming projects I have completed as an underg
         Idle • 
         Jupyter Notebook • 
         Python • 
-        SQLite3 • 
+        SQLite • 
         Tkinter • 
         Turtle Graphics 
     </td>
