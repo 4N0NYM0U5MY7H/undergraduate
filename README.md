@@ -29,7 +29,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>
         CSS • 
         Express • 
-        git • 
+        Git • 
         GitHub • 
         HTML • 
         JavaScript • 
@@ -52,7 +52,7 @@ This table contains a list of programming projects I have completed as an underg
         Course Project
     </td>
     <td>
-        git •
+        Git •
         GitHub •
         JSON • 
         Python • 
@@ -85,7 +85,7 @@ This table contains a list of programming projects I have completed as an underg
         Mancala
     </td>
     <td>
-        git •
+        Git •
         GitHub •
         GitHub Classroom • 
         PyCharm • 
@@ -110,7 +110,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>
         C# • 
         Eclipse • 
-        git •
+        Git •
         Java • 
         Unity • 
         Visual Studio
@@ -128,7 +128,7 @@ This table contains a list of programming projects I have completed as an underg
     </td>
     <td>
         C# • 
-        git •
+        Git •
         Unity • 
         Visual Studio 
     </td>
@@ -145,7 +145,7 @@ This table contains a list of programming projects I have completed as an underg
         </a>
     <td>
         C# • 
-        git •
+        Git •
         Unity • 
         Visual Studio
     </td>
@@ -162,7 +162,7 @@ This table contains a list of programming projects I have completed as an underg
         Assembler
     </td>
     <td>
-        git •
+        Git •
         Java • 
         MARS • 
         MIPS Assembly Language • 
@@ -184,7 +184,7 @@ This table contains a list of programming projects I have completed as an underg
     </td>
     <td>
         C++ • 
-        git •
+        Git •
         Visual Studio
     </td>
     <td>2020</td>
@@ -199,7 +199,7 @@ This table contains a list of programming projects I have completed as an underg
         Burrows-Wheeler
     </td>
     <td>
-        git •
+        Git •
         IntelliJ IDEA • 
         Java
     </td>
@@ -215,7 +215,7 @@ This table contains a list of programming projects I have completed as an underg
         Kd-Trees
     </td>
     <td>
-        git •
+        Git •
         IntelliJ IDEA • 
         Java
     </td>
@@ -233,7 +233,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>
         C++ • 
         Code::Blocks • 
-        git •
+        Git •
         Visual Studio • 
         VM Virtual Box • 
         VMware
@@ -250,7 +250,7 @@ This table contains a list of programming projects I have completed as an underg
         Cash Register
     </td>
     <td>
-        git •
+        Git •
         JavaScript 
     </td>
     <td>2018</td>
@@ -267,7 +267,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>
         Chai JS • 
         Express.js • 
-        git •
+        Git •
         HelmetJS • 
         JavaScript • 
         MongoDB • 
@@ -289,7 +289,7 @@ This table contains a list of programming projects I have completed as an underg
         Bootstrap • 
         CodePen •
         CSS • 
-        git •
+        Git •
         HTML • 
         jQuery
     </td>
@@ -311,7 +311,7 @@ This table contains a list of programming projects I have completed as an underg
     </td>
     <td>
         Bash • 
-        git •
+        Git •
         Linux • 
         Raspberry Pi •
         SQLite • 
@@ -333,11 +333,11 @@ This table contains a list of programming projects I have completed as an underg
         Birth Test: Dictionary • 
         File I/O • 
         Chinese Zodiac • 
-        Personality Calculator
+        <a href="https://github.com/4N0NYM0U5MY7H/personality_calculator">Personality Calculator</a>
     </td>
     <td>
-        git •
-        Idle • 
+        Git •
+        IDLE • 
         Jupyter Notebook • 
         Python • 
         SQLite • 
