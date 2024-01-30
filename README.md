@@ -3,12 +3,14 @@ This table contains a list of programming projects I have completed as an underg
 
 > **Note:** Not all projects listed below are available for public viewing per academic policy.
 
+## Public Projects
+
 <table>
 <thead>
 <tr>
     <th>Course</th>
     <th>Project</th>
-    <th>Technology</th>
+    <th>Description</th>
     <th>Year</th>
 </tr>
 </thead>
@@ -64,33 +66,9 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Intro to Computer Science II<br />(CS 162)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
     <td>
-        Basic Statistics • 
-        Lemonade Stand • 
-        Library Simulator • 
-        Binary Exception •
-        Box Sort • 
-        String Sort • 
-        Sorts Count • 
-        File Sum • 
-        Nobel Data • 
-        SAT Data • 
-        Neighborhood Pets • 
-        List Max • 
-        Is Decreasing • 
-        Is Subsequence • 
-        Row Puzzle • 
-        Linked List • 
-        Count Sequence • 
-        Sort Timer •
         Mancala
     </td>
     <td>
-        Git •
-        GitHub •
-        GitHub Classroom • 
-        PyCharm • 
-        Python • 
-        Repl.it
     </td>
     <td>2022</td>
 </tr>
@@ -108,12 +86,6 @@ This table contains a list of programming projects I have completed as an underg
         Final Project
     </td>
     <td>
-        C# • 
-        Eclipse • 
-        Git •
-        Java • 
-        Unity • 
-        Visual Studio
     </td>
     <td>2021</td>
 </tr>
@@ -152,6 +124,42 @@ This table contains a list of programming projects I have completed as an underg
     <td>2021</td>
 </tr>
 <tr>
+    <td>Intro to Unix/Linux Systems & Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/ULIB">Unix Library</a>
+    </td>
+    <td>
+        Library Management System implemented using Bash scripting.
+    </td>
+    <td>2018</td>
+</tr>
+<tr>
+    <td>Intro to Programming<br />(CSCI 270)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>
+        <a href="https://github.com/4N0NYM0U5MY7H/personality_calculator">Personality Calculator</a>
+    </td>
+    <td>
+        Personality analysis and astrology tool implemented in Python.
+    </td>
+    <td>2017</td>
+</tr>
+</tbody>
+</table>
+
+
+## Private Projects
+
+<table>
+<thead>
+<tr>
+    <th>Course</th>
+    <th>Projects</th>
+    <th>Languages &amp; Frameworks</th>
+    <th>Year</th>
+</tr>
+</thead>
+<tbody>
+<tr>
     <td>Assembly Language Programming<br />(CSCI 273)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
         Boolean Functions and Gate Logic • 
@@ -162,11 +170,7 @@ This table contains a list of programming projects I have completed as an underg
         Assembler
     </td>
     <td>
-        Git •
-        Java • 
-        MARS • 
-        MIPS Assembly Language • 
-        VMware
+        <img src="https://img.shields.io/badge/-MIPS_Assembly-E60A95?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAACWElEQVQ4T3VUO05kMRBs+zEahCAmWQLEHUjI4QycgTNsxBE4xZ5gkw1ISBBXQJssESkgjWDaW9Wf92wEo4Hx8+suV1W3u6i0UoUfFWlYFSwbvvgt2BJ/KbLNNTYj4/1dzlYrubNcBCpftdZKSQCAYFNrnWH8oP4x8FuTGyyvSpGKtQKjqvMhF5GprS8+ZPM7A1rRim+SAWlFMOniRK2Mu6CUUooBEoO5AAZgbGw2crJey+N8qiMsHKEEmY/4Oa5YkNFkDBuEWfBtaQrNkJin6Idc1532005W1ZfXerh/IM9mLRLd5PjwaRr9wNstfKwKngYKa+nZKf7dJ9NdkZNNkb92KJ2HycYc+FPFA1Pov/+4h2QNqvDAWfSytwAC8/PVJH8QbX6lFZS8UO4AuclE94RJKv+k7v1o8paWgNyvaZJLxtFD0uG7bwEZQZ+SXVbODgIGO6Nt5aHuyCm8Rx2ghD3V2TpLtlNQvvgZQcED3eB7cBEAT1gfpSJr+slzR8CZO+4PGtErTYCl38jIuueLCpOPA2qEpdPhCuQp26JvXN+DfHTGZ7kLYO9qv4aUBo6fb0NeNViK6GpO8fpakebh0F3ZeCcDQ7YHL4TXwDV0xUge1th2h4biR3Egj/tWjJDvlQskW8Z4CkK8erB+0dnPFkrDn+UQ1Fovnoc4XoRoETZesdlnp2b9ffhlMUJeZcQwzCzRe83GA27h0jYxPXrlfXUtizOYLIegUbYBOq+uYjgHxeLh3szhmo8oPmWDxGTvOsMku6QY4yY2Sqg4yibL11PbtWaNvDj/ATXSVNM0pgVQAAAAAElFTkSuQmCC" alt="Assembly" />
     </td>
     <td>2020</td>
 </tr>
@@ -183,9 +187,7 @@ This table contains a list of programming projects I have completed as an underg
         StackType
     </td>
     <td>
-        C++ • 
-        Git •
-        Visual Studio
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C Plus Plus" />
     </td>
     <td>2020</td>
 </tr>
@@ -199,9 +201,7 @@ This table contains a list of programming projects I have completed as an underg
         Burrows-Wheeler
     </td>
     <td>
-        Git •
-        IntelliJ IDEA • 
-        Java
+        <img src="https://img.shields.io/badge/-Java-007396?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAA60lEQVQ4T62U4RHCIAyFC/VcwRGcRlfSmXQbJ+gK3lnwgQ2mXCBU4WcPvuS9l9QMnY/ZyvM4Bqf0bhMwwAKoC7AFFou1SM5hNdkq8ANzkDmaBfyA5ONPHq5gDmCUr/mnSuZSvXdI16qKqhcAvKLqJXTVLRTvZ3QW/TsAPv0lmYynVLWhFj1slUbFkJW3bHNEDwkaHoXVyC9x2TMujxowggo7y79Laoop8y7zIabUpYCqQC1RaVuqQIcXVjCx+W+TJ6b9OCSfVx0WfYtdxn5TDeryhZXcsZUsjM3+NAzPW5q1BZXUf204A3znSt7qO5AVQnjSrQAAAABJRU5ErkJggg==" alt="Java" />
     </td>
     <td>2019</td>
 </tr>
@@ -215,9 +215,7 @@ This table contains a list of programming projects I have completed as an underg
         Kd-Trees
     </td>
     <td>
-        Git •
-        IntelliJ IDEA • 
-        Java
+        <img src="https://img.shields.io/badge/-Java-007396?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAA60lEQVQ4T62U4RHCIAyFC/VcwRGcRlfSmXQbJ+gK3lnwgQ2mXCBU4WcPvuS9l9QMnY/ZyvM4Bqf0bhMwwAKoC7AFFou1SM5hNdkq8ANzkDmaBfyA5ONPHq5gDmCUr/mnSuZSvXdI16qKqhcAvKLqJXTVLRTvZ3QW/TsAPv0lmYynVLWhFj1slUbFkJW3bHNEDwkaHoXVyC9x2TMujxowggo7y79Laoop8y7zIabUpYCqQC1RaVuqQIcXVjCx+W+TJ6b9OCSfVx0WfYtdxn5TDeryhZXcsZUsjM3+NAzPW5q1BZXUf204A3znSt7qO5AVQnjSrQAAAABJRU5ErkJggg==" alt="Java" />
     </td>
     <td>2019</td>
 </tr>
@@ -231,12 +229,7 @@ This table contains a list of programming projects I have completed as an underg
         Average Test Score Calculator
     </td>
     <td>
-        C++ • 
-        Code::Blocks • 
-        Git •
-        Visual Studio • 
-        VM Virtual Box • 
-        VMware
+        <img src="https://img.shields.io/badge/-C++-00599C?logo=cplusplus&logoColor=white" alt="C Plus Plus" />
     </td>
     <td>2018</td>
 </tr>
@@ -250,8 +243,7 @@ This table contains a list of programming projects I have completed as an underg
         Cash Register
     </td>
     <td>
-        Git •
-        JavaScript 
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
     </td>
     <td>2018</td>
 </tr>
@@ -265,14 +257,17 @@ This table contains a list of programming projects I have completed as an underg
         Anonymous Message Board
     </td>
     <td>
-        Chai JS • 
-        Express.js • 
-        Git •
-        HelmetJS • 
-        JavaScript • 
-        MongoDB • 
-        Mongoose • 
-        Node.js
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" />
+        <img src="https://img.shields.io/badge/-Mongoose-880000?logo=mongoose&logoColor=white" alt="Mongoose" />
+        <img src="https://img.shields.io/badge/-Chai-A30701?logo=chai&logoColor=white" alt="Chai" />
+        <img src="https://img.shields.io/badge/-Helmet-000000?logo=npm&logoColor=white" alt="Helmet" />
+        <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=white" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white" alt="jQuery" />
+        <img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white" alt="Bootstrap" />
     </td>
     <td>2018</td>
 </tr>
@@ -286,12 +281,8 @@ This table contains a list of programming projects I have completed as an underg
         Personal Porfolio
     </td>
     <td>
-        Bootstrap • 
-        CodePen •
-        CSS • 
-        Git •
-        HTML • 
-        jQuery
+        <img src="https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white" alt="HTML" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white" alt="CSS" />
     </td>
     <td>2018</td>
 </tr>
@@ -306,18 +297,10 @@ This table contains a list of programming projects I have completed as an underg
         Diskhog • 
         Speedo • 
         GeoIP •
-        VNC Server • 
-        <a href="https://github.com/4N0NYM0U5MY7H/ULIB">Unix Library</a>
+        VNC Server
     </td>
     <td>
-        Bash • 
-        Git •
-        Linux • 
-        Raspberry Pi •
-        SQLite • 
-        Vim • 
-        VMWare • 
-        VNC Server
+        <img src="https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white" alt="Bash" />
     </td>
     <td>2018</td>
 </tr>
@@ -325,24 +308,18 @@ This table contains a list of programming projects I have completed as an underg
     <td>Intro to Programming<br />(CSCI 270)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
         Guessing Game • 
-        First Sum • 
+        Birth Sum • 
         Coin Calculator • 
         Print Paragraphs • 
         Birth Test • 
         SQL • 
-        Birth Test: Dictionary • 
+        Dictionaries • 
         File I/O • 
-        Chinese Zodiac • 
-        <a href="https://github.com/4N0NYM0U5MY7H/personality_calculator">Personality Calculator</a>
+        Chinese Zodiac •
+        Turtle GUI
     </td>
     <td>
-        Git •
-        IDLE • 
-        Jupyter Notebook • 
-        Python • 
-        SQLite • 
-        Tkinter • 
-        Turtle Graphics 
+        <img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white" alt="Python" />
     </td>
     <td>2017</td>
 </tr>
