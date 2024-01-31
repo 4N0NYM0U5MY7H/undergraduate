@@ -163,14 +163,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Web Development<br />(CS 290)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
     <td>
-        Intro to HTTP • 
-        JavaScript • 
-        Intro to HTML and Express • 
-        CSS and Events • 
-        Async and Express • 
-        Database Persistence • 
-        REST API • 
-        React
+        Intro to HTTP • JavaScript • Intro to HTML and Express • CSS and Events • Async and Express • Database Persistence • REST API • React
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Node.js-141414?logo=node.js" alt="Node.js" />
@@ -185,26 +178,19 @@ This table contains a list of programming projects I have completed as an underg
     <td>2023</td>
 </tr>
 <tr>
+    <td>Software Engineering I<br />(CS 361)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
+    <td>
+        Microservices Warm-up • UI Design with CSH
+    </td>
+    <td>
+        <img src="https://img.shields.io/badge/-Python-141414?logo=python" alt="Python" />
+    </td>
+    <td>2023</td> 
+</tr>
+<tr>
     <td>Intro to Computer Science II<br />(CS 162)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
     <td>
-        Basic Statistics • 
-        Lemonade Stand • 
-        Library Simulator • 
-        Binary Exception •
-        Box Sort • 
-        String Sort • 
-        Sorts Count • 
-        File Sum • 
-        Nobel Data • 
-        SAT Data • 
-        Neighborhood Pets • 
-        List Max • 
-        Is Decreasing • 
-        Is Subsequence • 
-        Row Puzzle • 
-        Linked List • 
-        Count Sequence • 
-        Sort Timer
+        Basic Statistics • Lemonade Stand • Library Simulator • Binary Exception • Box Sort • String Sort • Sorts Count • File Sum • Nobel Data • SAT Data • Neighborhood Pets • List Max • Is Decreasing • Is Subsequence • Row Puzzle • Linked List • Count Sequence • Sort Timer
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Python-141414?logo=python" alt="Python" /> 
@@ -214,14 +200,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Data Structures and Algorithms<br />(CS 3100)<br /><a href="https://www.csustan.edu/">California State University, Stanislaus</a></td>
     <td>
-        Algorithm Analysis • 
-        Linear Structures • 
-        Binary Tree • 
-        Sorting • 
-        File Processing • 
-        Indexing • 
-        Hashing • 
-        Graphs
+        Algorithm Analysis • Linear Structures • Binary Tree • Sorting • File Processing • Indexing • Hashing • Graphs
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Java-141414?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVQ4T2NkIALctuD7r3riEyM2pVgF0RVSZMArB1Gejz9+fibLBSCbQa4Bab5jxd+pcuxjObrrcHoBWTNZXoBpwqcZ5Bq8LgA5nXwDrIBRdwxiACwcSI5GuDcs+eeqHv+YDDKgeOHv/73xrHCXo3gBJAn2FxNjeE8syyoQu2jxL33Gf4wXQGyYRmRDsIZB6eJfRt2xbOewObls8Z+Av//+r4cZhtUAmEuQDQA6bS9QsTOy83HGAro/0fnIBmMNA5AtRcDwgEkyMTK1dMcx1+KNheKFv4CuRPXRPwbGx0wM/2VhGkEh3Ac0HG8gYvM/ms2/gS5kg4kBAMDLhBEKk40ZAAAAAElFTkSuQmCC" alt="Java" /> 
@@ -231,12 +210,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Assembly Language Programming<br />(CSCI 273)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Boolean Functions and Gate Logic • 
-        Arithmetic Logic Unit • 
-        Memory • 
-        Machine Language • 
-        Computer Architecture • 
-        Assembler
+        Boolean Functions and Gate Logic • Arithmetic Logic Unit • Memory • Machine Language • Computer Architecture • Assembler
     </td>
     <td>
         <img src="https://img.shields.io/badge/-MIPS_Assembly-fff?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAABJUlEQVQ4T2NkQALPuKfOkfqanYIshs4WkFT8f+1jCYPUt2xGkByYAIFnXFOPAilzIGaGSWJollD4DxK79qkULAVSBzbgOdfU58zcDKp/vjJ8ZvgHFGCCSCIbIADVDJK79gHJgGdcU75IfcvhAbrgP0gTiGZgZDzM8P+/LcwQuGaoiR9ePIAbDmYga5b8lsX0nGvaPwZGpn6G//8KQYYQNAC3IYyxQJcsRjcEwwXwgOQAeuMHxBsw7/xlZNRn/v//IrIhOA1AdwnMkH/M/0WY/jK+gRmC1wBchsAMQ48dlKhCSVRI3sClGSUhoca5/OkPLx6aIocFrsSF1QUCEvKnGRkYTd4D4xtmCK7kjdMAYCo3AWlCDjBshtDWAEK2EwxEXP5GFgcAUSzAEVUyq50AAAAASUVORK5CYII=" alt="Assembly" />
@@ -246,14 +220,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Programming & Problem Solving II<br />(CSCI 272)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        DayType • 
-        Phone Directory • 
-        ArrayListType • 
-        Operator Overloading • 
-        Birth Date Validator • 
-        Recursion • 
-        Linked List • 
-        StackType
+        DayType • Phone Directory • ArrayListType • Operator Overloading • Birth Date Validator • Recursion • Linked List • StackType
     </td>
     <td>
         <img src="https://img.shields.io/badge/-C++-141414?logo=cplusplus&logoColor=00599C" alt="C Plus Plus" />
@@ -263,11 +230,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Alogrithms, Part 2<br />Coursera<br /><a href="https://www.coursera.org/learn/algorithms-part2">Princeton University</a></td>
     <td>
-        WordNet • 
-        Seam Carving • 
-        Baseball Elimination • 
-        Boggle • 
-        Burrows-Wheeler
+        WordNet • Seam Carving • Baseball Elimination • Boggle • Burrows-Wheeler
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Java-141414?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVQ4T2NkIALctuD7r3riEyM2pVgF0RVSZMArB1Gejz9+fibLBSCbQa4Bab5jxd+pcuxjObrrcHoBWTNZXoBpwqcZ5Bq8LgA5nXwDrIBRdwxiACwcSI5GuDcs+eeqHv+YDDKgeOHv/73xrHCXo3gBJAn2FxNjeE8syyoQu2jxL33Gf4wXQGyYRmRDsIZB6eJfRt2xbOewObls8Z+Av//+r4cZhtUAmEuQDQA6bS9QsTOy83HGAro/0fnIBmMNA5AtRcDwgEkyMTK1dMcx1+KNheKFv4CuRPXRPwbGx0wM/2VhGkEh3Ac0HG8gYvM/ms2/gS5kg4kBAMDLhBEKk40ZAAAAAElFTkSuQmCC" alt="Java" />
@@ -277,11 +240,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Algorithms, Part 1<br />Coursera<br /><a href="https://www.coursera.org/learn/algorithms-part1">Princeton University</a></td>
     <td>
-        Percolation • 
-        Deques and Randomized Queues • 
-        Collinear Points • 
-        8 Puzzle • 
-        Kd-Trees
+        Percolation • Deques and Randomized Queues • Collinear Points • 8 Puzzle • Kd-Trees
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Java-141414?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAA+UlEQVQ4T2NkIALctuD7r3riEyM2pVgF0RVSZMArB1Gejz9+fibLBSCbQa4Bab5jxd+pcuxjObrrcHoBWTNZXoBpwqcZ5Bq8LgA5nXwDrIBRdwxiACwcSI5GuDcs+eeqHv+YDDKgeOHv/73xrHCXo3gBJAn2FxNjeE8syyoQu2jxL33Gf4wXQGyYRmRDsIZB6eJfRt2xbOewObls8Z+Av//+r4cZhtUAmEuQDQA6bS9QsTOy83HGAro/0fnIBmMNA5AtRcDwgEkyMTK1dMcx1+KNheKFv4CuRPXRPwbGx0wM/2VhGkEh3Ac0HG8gYvM/ms2/gS5kg4kBAMDLhBEKk40ZAAAAAElFTkSuQmCC" alt="Java" />
@@ -291,11 +250,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Programming & Problem Solving I<br />(CSCI 271)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Rectangle Calculator • 
-        Scholarship Calculator • 
-        Menu Driven Program • 
-        Inch-Centimeter Converter • 
-        Average Test Score Calculator
+        Rectangle Calculator • Scholarship Calculator • Menu Driven Program • Inch-Centimeter Converter • Average Test Score Calculator
     </td>
     <td>
         <img src="https://img.shields.io/badge/-C++-141414?logo=cplusplus&logoColor=00599C" alt="C Plus Plus" />
@@ -305,11 +260,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>JavaScript Algorithms and Data Structures<br /><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></td>
     <td>
-        Palindrome Checker • 
-        Roman Numeral Converter • 
-        Caesars Cipher • 
-        Telephone Number Validator • 
-        Cash Register
+        Palindrome Checker • Roman Numeral Converter • Caesars Cipher • Telephone Number Validator • Cash Register
     </td>
     <td>
         <img src="https://img.shields.io/badge/-JavaScript-141414?logo=javascript" alt="JavaScript" />
@@ -319,11 +270,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Information Security and Quality Assurance<br /><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></td>
     <td>
-        Metric-Imperial Converter • 
-        Issue Tracker • 
-        Personal Library • 
-        Stock Price Checker • 
-        Anonymous Message Board
+        Metric-Imperial Converter • Issue Tracker • Personal Library • Stock Price Checker • Anonymous Message Board
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Node.js-141414?logo=node.js" alt="Node.js" />
@@ -341,11 +288,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Responsive Web Design<br /><a href="https://www.freecodecamp.org/">FreeCodeCamp</a></td>
     <td>
-        Tribute Page • 
-        Survey Form • 
-        Product Landing Page • 
-        Technical Documentation • 
-        Personal Porfolio
+        Tribute Page • Survey Form • Product Landing Page • Technical Documentation • Personal Porfolio
     </td>
     <td>
         <img src="https://img.shields.io/badge/-HTML-141414?logo=html5" alt="HTML" />
@@ -356,15 +299,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Intro to Unix/Linux Systems & Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Bash Scripting •
-        Days Alive •
-        Daily Fortune •
-        Fortune Webpage •
-        Timesheet •
-        Diskhog • 
-        Speedo • 
-        GeoIP •
-        VNC Server
+        Bash Scripting • Days Alive • Daily Fortune • Fortune Webpage • Timesheet • Diskhog • Speedo • GeoIP • VNC Server
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Bash-141414?logo=gnu-bash" alt="Bash" />
@@ -374,16 +309,7 @@ This table contains a list of programming projects I have completed as an underg
 <tr>
     <td>Intro to Programming<br />(CSCI 270)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Guessing Game • 
-        Birth Sum • 
-        Coin Calculator • 
-        Print Paragraphs • 
-        Birth Test • 
-        SQL • 
-        Dictionaries • 
-        File I/O • 
-        Chinese Zodiac •
-        Turtle GUI
+        Guessing Game • Birth Sum • Coin Calculator • Print Paragraphs • Birth Test • SQL • Dictionaries • File I/O • Chinese Zodiac • Turtle GUI
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Python-141414?logo=python" alt="Python" />
