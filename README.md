@@ -17,6 +17,21 @@ This table contains a list of programming projects I have completed as an underg
 </thead>
 <tbody>
 <tr>
+    <td>Intro to Databases<br />(CS 340)<br /><a href="https://oregonstate.edu/">Oregon State University</a>
+    <td>
+        Hero Electronics
+    </td>
+    <td>
+        Database driven web application for a fictional electronics store.
+    </td>
+    <td>
+        <img src="https://img.shields.io/badge/-Python-141414?logo=python" alt="Python" />
+        <img src="https://img.shields.io/badge/-Flask-141414?logo=flask" alt="Flask" />
+        <img src="https://img.shields.io/badge/-MySQL-141414?logo=mysql" alt="MySQL" />
+    </td>
+    <td>2023</td>
+</tr>
+<tr>
     <td>Web Development<br />(CS 290)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
     <td>
         <a href="https://github.com/4N0NYM0U5MY7H/CS290_MERN_App">Full Stack MERN App</a>
@@ -160,6 +175,21 @@ This table contains a list of programming projects I have completed as an underg
 </tr>
 </thead>
 <tbody>
+<tr>
+    <td>Intro to Databases<br />(CS 340)<br /><a href="https://oregonstate.edu/">Oregon State University</a>
+    <td>
+        Activity 1/2/3 • Intermediate SQL • Advanced SQL • Analytical DB and BI
+    </td>
+    <td>
+        <img src="https://img.shields.io/badge/-MySQL-141414?logo=mysql" alt="MySQL" />
+        <img src="https://img.shields.io/badge/-Power_BI-141414?logo=power-bi" alt="Power BI" />
+        <img src="https://img.shields.io/badge/-Flask-141414?logo=flask" alt="Flask" />
+        <img src="https://img.shields.io/badge/-Gunicorn-141414?logo=gunicorn" alt="Gunicorn" />
+        <img src="https://img.shields.io/badge/-Node.js-141414?logo=node.js" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-Nodemon-141414?logo=nodemon" alt="Nodemon" />
+    </td>
+    <td>2023</td>
+</tr>
 <tr>
     <td>Web Development<br />(CS 290)<br /><a href="https://oregonstate.edu/">Oregon State University</a></td>
     <td>
