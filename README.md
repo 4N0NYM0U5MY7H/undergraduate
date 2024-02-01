@@ -134,7 +134,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>2021</td>
 </tr>
 <tr>
-    <td>Intro to Unix/Linux Systems & Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>Intro to Unix/Linux Systems &amp; Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
         <a href="https://github.com/4N0NYM0U5MY7H/ULIB">Unix Library</a>
     </td>
@@ -248,7 +248,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>2020</td>
 </tr>
 <tr>
-    <td>Programming & Problem Solving II<br />(CSCI 272)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>Programming &amp; Problem Solving II<br />(CSCI 272)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
         DayType • Phone Directory • ArrayListType • Operator Overloading • Birth Date Validator • Recursion • Linked List • StackType
     </td>
@@ -278,7 +278,7 @@ This table contains a list of programming projects I have completed as an underg
     <td>2019</td>
 </tr>
 <tr>
-    <td>Programming & Problem Solving I<br />(CSCI 271)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>Programming &amp; Problem Solving I<br />(CSCI 271)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
         Rectangle Calculator • Scholarship Calculator • Menu Driven Program • Inch-Centimeter Converter • Average Test Score Calculator
     </td>
@@ -327,9 +327,9 @@ This table contains a list of programming projects I have completed as an underg
     <td>2018</td>
 </tr>
 <tr>
-    <td>Intro to Unix/Linux Systems & Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
+    <td>Intro to Unix/Linux Systems &amp; Programming<br />(CSCI 210)<br /><a href="https://www.mjc.edu/">Modesto Junior College</a></td>
     <td>
-        Bash Scripting • Days Alive • Daily Fortune • Fortune Webpage • Timesheet • Diskhog • Speedo • GeoIP • VNC Server
+        Boot Process and Runlevels • Package Install and Management • Basic Command Line • Text Processing • Advanced Command Line • Process Management • Text Editing • Partitions and Filesystems • Permissions and Ownership • Customizing Shell Environments • Shell Scripting • Managing Users and Groups • Networking • System Security
     </td>
     <td>
         <img src="https://img.shields.io/badge/-Bash-141414?logo=gnu-bash" alt="Bash" />
